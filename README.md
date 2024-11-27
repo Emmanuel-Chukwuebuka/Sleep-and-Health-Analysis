@@ -1,4 +1,13 @@
 # Analysis of Sleep Health and Lifestyle Factors
+## Table of Content
+- [Overview of the dataset](#Overview-of-the-dataset)
+- [Problem Statement](#Problem-Statement)
+- [Challenges faced during the analysis](#Challenges-faced)
+- [Softwares Used](#Softwares-Used-to-Carry-out-the-Analysis)
+- [Unforseen Circumstances](#Unforseen-Circumstances)
+- [Methodology](#Methodology)
+- [Key findings](#Key-findings)
+- [Recommendations](#Recommendations)
 ## Overview of the dataset
 The primary dataset used for this analysis is the [Sleep health dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset) from Kaggle.
 ## Problem Statement
@@ -24,7 +33,7 @@ The primary dataset used for this analysis is the [Sleep health dataset](https:/
 - Correlation analysis to identify relationships between variables.
 - Group comparisons to explore differences across categories.
 - Visualization to effectively communicate insights.
-## KeY Findings
+## Key Findings
 ### Sleep Duration and Quality:
 - The average sleep duration among individuals varies significantly across different occupations.
 - There is a noticeable correlation between physical activity levels and sleep quality, with higher activity levels generally associated with better sleep quality.

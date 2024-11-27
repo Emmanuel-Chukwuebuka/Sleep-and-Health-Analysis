@@ -37,7 +37,7 @@ The primary dataset used for this analysis is the [Sleep health dataset](https:/
 ### Sleep Duration and Quality:
 - The average sleep duration among individuals varies significantly across different occupations.
 - There is a noticeable correlation between physical activity levels and sleep quality, with higher activity levels generally associated with better sleep quality.
-- High stress levels are linked to poorer sleep quality, indicating that stress management is crucial for improving sleep health.
+- High-stress levels are linked to poorer sleep quality, indicating that stress management is crucial for improving sleep health.
 ### Gender and Sleep
 The distribution of sleep duration and quality does not
 show significant gender differences, suggesting that other factors such as occupation and lifestyle choices may have a more substantial impact on sleep health
@@ -45,7 +45,7 @@ show significant gender differences, suggesting that other factors such as occup
 Higher BMI categories (overweight and obese) are linked to shorter sleep duration and lower sleep quality, while increased physical activity is associated with longer sleep duration and better sleep quality.
 ### Sleep Disorders
 - Individuals with sleep disorders, such as sleep
-apnea, report significantly lower sleep quality and shorter sleep duration compared to those without sleep disorders.
+apnea reports significantly lower sleep quality and shorter sleep duration than those without sleep disorders.
 - There is a clear need for targeted interventions for
 individuals with sleep disorders to enhance their sleep health
 ## Recommendations
